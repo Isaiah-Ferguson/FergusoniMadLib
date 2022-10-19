@@ -1,7 +1,7 @@
 ﻿//Isaiah Keith Ferguson
 //10/17/2022
 //Mad Lib
-//The user will enter a 
+//we will prompt the user to input words an numbers and we will process those into a funny wacky story.
 
 
 bool truenum = true;
