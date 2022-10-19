@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonMadLib\\IKFergusonMadLib.csproj": {}
+    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\IKFergusonMadLib\\IKFergusonMadLib.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonMadLib\\IKFergusonMadLib.csproj": {
+    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\IKFergusonMadLib\\IKFergusonMadLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonMadLib\\IKFergusonMadLib.csproj",
+        "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\IKFergusonMadLib\\IKFergusonMadLib.csproj",
         "projectName": "IKFergusonMadLib",
-        "projectPath": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonMadLib\\IKFergusonMadLib.csproj",
-        "packagesPath": "C:\\Users\\crest\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonMadLib\\obj\\",
+        "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\IKFergusonMadLib\\IKFergusonMadLib.csproj",
+        "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\IKFergusonMadLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\crest\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

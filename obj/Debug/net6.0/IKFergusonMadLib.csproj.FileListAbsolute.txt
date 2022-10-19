@@ -13,3 +13,18 @@ C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonMadLib\obj\Debug\net6.
 C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.pdb
 C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.genruntimeconfig.cache
 C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonMadLib\obj\Debug\net6.0\ref\IKFergusonMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\bin\Debug\net6.0\IKFergusonMadLib.exe
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\bin\Debug\net6.0\IKFergusonMadLib.deps.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\bin\Debug\net6.0\IKFergusonMadLib.runtimeconfig.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\bin\Debug\net6.0\IKFergusonMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\bin\Debug\net6.0\IKFergusonMadLib.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.csproj.AssemblyReference.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.AssemblyInfoInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.AssemblyInfo.cs
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.csproj.CoreCompileInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\refint\IKFergusonMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\IKFergusonMadLib.genruntimeconfig.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\IKFergusonMadLib\obj\Debug\net6.0\ref\IKFergusonMadLib.dll
